@@ -17,7 +17,7 @@ def load_file(path, file_type="Pipeline/Model"):
         return None
 
 # Paths to files
-pipeline_path = r'C:\Users\HP\Desktop\Project\Data Science Capstone Project\car_price_pipeline.pkl'
+pipeline_path = r'https://github.com/unaib-tech/Data-Science-Capstone-Project/blob/main/model.pkl'
 model_path = r'C:\Users\HP\Desktop\Project\Data Science Capstone Project\car_price_modal.pkl'
 
 # Load files
